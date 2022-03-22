@@ -2,3 +2,4 @@
 
 Example like make a request to API using fetch and suspense and lazy components of React
 
+I have used bootstrap for styles.
